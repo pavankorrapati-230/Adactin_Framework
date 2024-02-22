@@ -1,0 +1,4 @@
+set projectLocation=E:\Software\run_software\Frm_NIT
+CD %projectLocation%
+set class_path=%projectLocation%\bin;%projectLocation%\lib_\*
+java org.testng.TestNG %projectLocation%\testng.xml
