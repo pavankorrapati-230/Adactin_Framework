@@ -5,6 +5,7 @@ public class Exp_TestNG {
 	@Test //one test is 1 testcase/ scenario in Reports
 		public void login() {
 			System.out.println("Login completed");
+			System.out.println("Login Reactivated");
 		}
 		@Test
 		public void logout() {
