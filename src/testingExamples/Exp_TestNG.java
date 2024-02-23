@@ -14,6 +14,7 @@ public class Exp_TestNG {
 		@Test
 		public void AddNewEmp() {
 			System.out.println("New Emp");
+			System.out.println("Old Emp");
 		}
 		@Test
 		public void EditEmp () {
